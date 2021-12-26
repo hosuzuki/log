@@ -45,8 +45,24 @@
 
 <h3> :zap: The week of May 10th </h3>
 
-- **Total: 55h**
-- **Ground Total: 191h**
+- **Total: 77h**
+- **Ground Total: 268h**
+- 42 Tokyo's Piscine started
+- 
+<h3> :zap: The week of May 17th </h3>
 
+- **Total: 77h**
+- **Ground Total: 345h**
+- 42 Tokyo's Piscine
 
+<h3> :zap: The week of May 24th </h3>
 
+- **Total: 77h**
+- **Ground Total: 422h**
+- 42 Tokyo's Piscine
+
+<h3> :zap: The week of May 31th </h3>
+
+- **Total: 68.5h**
+- **Ground Total: 490.5h**
+- 42 Tokyo's Piscine
