@@ -48,7 +48,7 @@
 - **Total: 77h**
 - **Ground Total: 268h**
 - 42 Tokyo's Piscine started
-- 
+
 <h3> :zap: The week of May 17th </h3>
 
 - **Total: 77h**
