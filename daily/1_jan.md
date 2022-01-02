@@ -17,3 +17,8 @@ Plan
 Actual
 - work on printf project for 0.5 hours
 - research about NFT for 1 hour
+
+1/3<br>
+Plan
+- work on printf project for 5 hours
+- open an accout in the OpenSea
