@@ -11,3 +11,7 @@ Actual
 
 1/2<br>
 Plan 
+- work on printf project for 3 hours
+- research about NFT for 1 hour
+
+Actual
