@@ -21,4 +21,5 @@ Actual
 1/3<br>
 Plan
 - work on printf project for 5 hours
+- feedback on last week
 - open an accout in the OpenSea
