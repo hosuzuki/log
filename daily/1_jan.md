@@ -15,3 +15,5 @@ Plan
 - research about NFT for 1 hour
 
 Actual
+- work on printf project for 0.5 hours
+- research about NFT for 1 hour
