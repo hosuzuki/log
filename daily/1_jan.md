@@ -28,3 +28,9 @@ Plan
 Actual
 - work on printf project for 3 hours
 - Connect MetaMask account with OpenSea.
+
+1/4<br>
+Plan
+- work on printf project for 5 hours
+- feedback on last week
+- open an accout of a crypto bank
