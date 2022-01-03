@@ -17,9 +17,14 @@ Plan
 Actual
 - work on printf project for 0.5 hours
 - research about NFT for 1 hour
+- Open an account on MetaMask
 
 1/3<br>
 Plan
 - work on printf project for 5 hours
 - feedback on last week
 - open an accout in the OpenSea
+
+Actual
+- work on printf project for 3 hours
+- Connect MetaMask account with OpenSea.
