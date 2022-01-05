@@ -34,3 +34,11 @@ Plan
 - work on printf project for 5 hours
 - feedback on last week
 - open an accout of a crypto bank
+
+Actual
+- work on printf project for 1 hours
+
+1/5<br>
+- work on printf project for 5 hours
+- feedback on last week
+- open an accout of a crypto bank
