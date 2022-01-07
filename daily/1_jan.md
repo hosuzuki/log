@@ -39,6 +39,27 @@ Actual
 - work on printf project for 1 hours
 
 1/5<br>
+Plan
 - work on printf project for 5 hours
 - feedback on last week
 - open an accout of a crypto bank
+
+Actual
+- work on printf project for 1 hours
+- opened an accout of a crypto bank
+
+1/6<br>
+Plan
+- work on printf project for 5 hours
+- feedback on last week
+
+Actual
+- work on printf project for 0 hours
+
+1/7<br>
+Plan
+- work on printf project for 2 hours
+- Submit gnl project
+
+Actual
+- 
