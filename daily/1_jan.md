@@ -62,4 +62,19 @@ Plan
 - Submit gnl project
 
 Actual
-- 
+- nothing
+
+1/8<br>
+Plan
+- work on printf project for 2 hours
+- Submit gnl project
+
+Actual
+- nothing
+
+1/9<br>
+Plan
+- Submit gnl project
+
+Actual
+- nothing
