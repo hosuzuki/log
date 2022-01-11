@@ -78,3 +78,19 @@ Plan
 
 Actual
 - nothing
+
+1/10<br>
+Plan
+- Submit gnl project
+
+Actual
+- nothing
+
+1/11<br>
+Plan
+- Submit gnl project
+- reaserch "Smart Note"
+
+Actual
+- 
+- not
