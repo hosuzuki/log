@@ -92,5 +92,4 @@ Plan
 - reaserch "Smart Note"
 
 Actual
-- 
 - not
