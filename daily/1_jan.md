@@ -92,4 +92,25 @@ Plan
 - reaserch "Smart Note"
 
 Actual
-- not
+- Submitted gnl project
+- reaserched "Smart Note"
+ 
+1/12<br>
+Plan
+- get feedback on my gnl project from two reviewers.
+
+Actual
+- gott feedback on my gnl project from two reviewers.
+
+1/13<br>
+Plan
+- get feedback on my gnl project from one reviewers.
+- finish the gnl project.
+
+Actual
+- got feedback on my gnl project from one reviewers.
+- finished the gnl project.
+
+1/14<br>
+Plan
+- work on the printf project for 3 hours
