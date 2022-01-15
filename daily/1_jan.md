@@ -11,6 +11,9 @@ Actual
 - researched Art Power 100
 - set a goal for 2022
 
+
+---
+
 <h3>1/2</h3><br>
 Plan 
 
@@ -22,6 +25,8 @@ Actual
 - work on printf project for 0.5 hours
 - research about NFT for 1 hour
 - Open an account on MetaMask
+
+---
 
 <h3>1/3</h3><br>
 Plan
@@ -35,6 +40,8 @@ Actual
 - work on printf project for 3 hours
 - Connect MetaMask account with OpenSea.
 
+---
+
 <h3>1/4</h3><br>
 Plan
 
@@ -45,6 +52,8 @@ Plan
 Actual
 
 - work on printf project for 1 hours
+
+---
 
 <h3>1/5</h3><br>
 Plan
@@ -58,6 +67,8 @@ Actual
 - work on printf project for 1 hours
 - opened an accout of a crypto bank
 
+---
+
 <h3>1/6</h3><br>
 Plan
 
@@ -67,6 +78,8 @@ Plan
 Actual
 
 - work on printf project for 0 hours
+
+---
 
 <h3>1/7</h3><br>
 Plan
@@ -78,6 +91,8 @@ Actual
 
 - nothing
 
+---
+
 <h3>1/8</h3><br>
 Plan
 
@@ -88,6 +103,8 @@ Actual
 
 - nothing
 
+---
+
 <h3>1/9</h3><br>
 Plan
 
@@ -97,6 +114,8 @@ Actual
 
 - nothing
 
+---
+
 <h3>1/10</h3><br>
 Plan
 
@@ -105,6 +124,8 @@ Plan
 Actual
 
 - nothing
+
+---
 
 <h3>1/11</h3><br>
 Plan
@@ -117,6 +138,8 @@ Actual
 - Submitted gnl project
 - reaserched "Smart Note"
  
+---
+
 <h3>1/12</h3><br>
 Plan
 
@@ -125,6 +148,8 @@ Plan
 Actual
 
 - gott feedback on my gnl project from two reviewers.
+
+---
 
 <h3>1/13</h3><br>
 Plan
@@ -137,6 +162,8 @@ Actual
 - got feedback on my gnl project from one reviewers.
 - finished the gnl project.
 
+---
+
 <h3>1/14</h3><br>
 Plan
 
@@ -146,6 +173,8 @@ Actual
 
 - work on the printf project for 2 hours
 
+---
+
 <h3>1/15</h3><br>
 Plan
 
@@ -154,6 +183,8 @@ Plan
 Actual
 
 - worked on the printf project for 0.5 hours
+
+---
 
 <h3>1/16</h3><br>
 Plan
