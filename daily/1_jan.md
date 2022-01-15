@@ -153,3 +153,9 @@ Plan
 
 Actual
 
+- worked on the printf project for 0.5 hours
+
+<h3>1/16</h3><br>
+Plan
+
+- work on the printf project for 3 hours
