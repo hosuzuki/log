@@ -200,5 +200,5 @@ Actual
 <h3>1/17</h3><br>
 Plan
 
-- ｆeedback on this week
+- work on the printf project for 3 hours
 
