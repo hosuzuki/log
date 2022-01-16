@@ -189,4 +189,16 @@ Actual
 <h3>1/16</h3><br>
 Plan
 
-- work on the printf project for 3 hours
+- ｆeedback on this week
+
+Actual
+
+- nothing
+
+---
+
+<h3>1/17</h3><br>
+Plan
+
+- ｆeedback on this week
+
