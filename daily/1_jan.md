@@ -202,3 +202,14 @@ Plan
 
 - work on the printf project for 3 hours
 
+Actual
+
+- Nothing
+
+---
+
+<h3>1/18</h3><br>
+Plan
+
+- work on the printf project for 3 hours
+
