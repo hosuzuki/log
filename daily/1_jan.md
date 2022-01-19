@@ -217,6 +217,8 @@ Actual
 
 - work on the printf project for 1 hours
 
+---
+
 <h3>1/19</h3><br>
 Plan
 
