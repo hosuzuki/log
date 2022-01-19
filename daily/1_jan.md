@@ -189,7 +189,7 @@ Actual
 <h3>1/16</h3><br>
 Plan
 
-- ｆeedback on this week
+- feedback on this week
 
 Actual
 
