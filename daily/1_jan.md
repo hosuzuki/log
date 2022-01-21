@@ -235,5 +235,14 @@ Plan
 
 - work on the printf project for 3 hours
 
+Actual
+
+- - work on the printf project for 0 hours
+
+<h3>1/21</h3><br>
+Plan
+
+- work on the printf project for 3 hours
+
 
 
