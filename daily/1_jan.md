@@ -259,7 +259,7 @@ Plan
 
 Actual
 
-- work on the printf project for 1.5 hours
+- worked on the printf project for 1.5 hours
 
 ---
 
@@ -268,4 +268,14 @@ Plan
 
 - work on the printf project for 1 hours
 
+Actual
 
+- worked on the printf project for 1 hours
+
+---
+
+<h3>1/24</h3><br>
+
+Day off
+
+---
