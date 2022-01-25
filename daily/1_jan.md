@@ -285,4 +285,6 @@ Day off
 Plan
 
 - work on the printf project for 3 hours
+- research Tom Sachs' "The Rocket Factory" project.
+
 
