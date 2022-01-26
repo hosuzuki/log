@@ -287,4 +287,18 @@ Plan
 - work on the printf project for 3 hours
 - research Tom Sachs' "The Rocket Factory" project.
 
+Actual
+
+- worked on the printf project for 3 hours
+- research Tom Sachs' "The Rocket Factory" project.
+
+---
+
+
+<h3>1/26</h3><br>
+Plan
+
+- work on the printf project for 3 hours
+- watch processing tutorial of "The Code Train." (0.5 and 0.6)
+
 
