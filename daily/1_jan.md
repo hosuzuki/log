@@ -301,4 +301,8 @@ Plan
 - work on the printf project for 3 hours
 - watch processing tutorial of "The Code Train." (0.5 and 0.6)
 
+Actual 
 
+
+- worked on the printf project for 2.5 hours
+- watch processing tutorial of "The Code Train." (0.5 and 0.6)
