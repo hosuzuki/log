@@ -294,7 +294,6 @@ Actual
 
 ---
 
-
 <h3>1/26</h3><br>
 Plan
 
@@ -306,3 +305,11 @@ Actual
 
 - worked on the printf project for 2.5 hours
 - watch processing tutorial of "The Code Train." (0.5 and 0.6)
+
+---
+
+<h3>1/27</h3><br>
+Plan
+
+- work on the printf project for 3 hours
+- watch processing tutorial of "The Code Train." (1.0 and 1.1)
