@@ -313,3 +313,13 @@ Plan
 
 - work on the printf project for 3 hours
 - watch processing tutorial of "The Code Train." (1.0 and 1.1)
+
+Actual
+
+- worked on the printf project for 3 hours
+
+---
+
+<h3>1/28</h3><br>
+Plan
+
