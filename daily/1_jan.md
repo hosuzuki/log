@@ -6,7 +6,6 @@ Plan
 - set a goal for 2022
 
 Actual
-
 - worked on printf project for 3.5 hours
 - researched Art Power 100
 - set a goal for 2022
@@ -335,5 +334,16 @@ Actual
 Plan
 
 - work on the printf project for 3 hours
+
+Actual
+
+- worked on the printf project for 2 hours
+
+---
+
+<h3>1/30</h3><br>
+Plan
+
+- work on the printf project for 5 hours
 
 
