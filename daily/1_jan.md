@@ -346,4 +346,9 @@ Plan
 
 - work on the printf project for 5 hours
 
+Actual
+
+- worked on the printf project for 6 hours
+
+---
 
