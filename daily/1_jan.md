@@ -352,3 +352,9 @@ Actual
 
 ---
 
+
+<h3>1/31</h3><br>
+Plan
+
+- work on the printf project for 5 hours
+
