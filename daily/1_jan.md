@@ -357,4 +357,9 @@ Actual
 Plan
 
 - work on the printf project for 5 hours
+- give a feedback on other's code
 
+Actual
+
+- worked on the printf project for 6.5 hours
+- gave a peer to peer evaluation to two people
