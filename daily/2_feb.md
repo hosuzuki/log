@@ -5,5 +5,12 @@ Plan
 
 Actual
 
+- worked on the printf project for 3.5 hours
+- gave a peer evaluation to other student for 1 hour
+- 
+
 ---
+
+<h3>2/2</h3><br>
+Plan
 
