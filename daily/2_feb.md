@@ -14,3 +14,7 @@ Actual
 <h3>2/2</h3><br>
 Plan
 
+- work on the printf project for 5 hours
+- set up standing desk for coding
+
+Acutual
