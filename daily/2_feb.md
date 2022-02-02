@@ -18,3 +18,11 @@ Plan
 - set up standing desk for coding
 
 Acutual
+
+- work on the printf project for 1 hours
+- set up standing desk for coding
+
+---
+
+<h3>2/3</h3><br>
+Plan
