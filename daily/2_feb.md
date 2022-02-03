@@ -26,3 +26,5 @@ Acutual
 
 <h3>2/3</h3><br>
 Plan
+
+- work on the printf project for 5 hours
