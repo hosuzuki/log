@@ -33,6 +33,8 @@ Acutual
 
 - work on the printf project for 3 hours
 
+---
+
 <h3>2/4</h3><br>
 Plan
 
