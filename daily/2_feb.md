@@ -31,7 +31,7 @@ Plan
 
 Acutual
 
-- work on the printf project for 3 hours
+- worked on the printf project for 3 hours
 
 ---
 
@@ -41,3 +41,13 @@ Plan
 - work on the printf project for 5 hours
 
 Actual
+
+- worked on the printf project for 3.5 hours
+- 
+---
+
+<h3>2/5</h3><br>
+Plan
+
+- work on the printf project for 5 hours
+
