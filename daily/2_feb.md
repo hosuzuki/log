@@ -7,7 +7,6 @@ Actual
 
 - worked on the printf project for 3.5 hours
 - gave a peer evaluation to other student for 1 hour
-- 
 
 ---
 
