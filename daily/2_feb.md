@@ -56,7 +56,7 @@ Actual
 
 ---
 
-<h3>2/5</h3><br>
+<h3>2/6</h3><br>
 Plan
 
 - work on the printf project for 1 hours
@@ -67,3 +67,9 @@ Actual
 
 
 ---
+---
+
+<h3>2/7</h3><br>
+Plan
+
+- work on the printf project for 2 hours
