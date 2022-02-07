@@ -79,3 +79,9 @@ Actual
 
 - worked on the printf project for 2 hours
 - 7 contributions on GitHub
+
+<h3>2/8</h3><br>
+Plan
+
+- work on the printf project for 3 hours
+- 7 contributions on GitHub
