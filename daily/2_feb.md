@@ -74,3 +74,8 @@ Plan
 
 - work on the printf project for 2 hours
 - 4 contributions on GitHub
+
+Actual
+
+- worked on the printf project for 2 hours
+- 7 contributions on GitHub
