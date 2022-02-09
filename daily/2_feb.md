@@ -103,5 +103,7 @@ Plan
 
 Actual
 
+- worked on the printf project for 6 hours
+- 13 contributions on GitHub
 
 ---
