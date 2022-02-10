@@ -119,4 +119,12 @@ Actual
 - worked on the printf project for 6 hours
 - 13 contributions on GitHub
 
+---
+
+<h3>2/11</h3><br>
+Plan
+
+- work on the printf project for 5 hours
+- 10 contributions on GitHub
+- submit ft_printf for a review
 
