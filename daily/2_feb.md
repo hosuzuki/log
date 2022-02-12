@@ -144,3 +144,5 @@ Plan
 
 Actual
 
+- work on the printf project for 4 hours
+- 4 contributions on GitHub
