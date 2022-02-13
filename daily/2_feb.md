@@ -146,3 +146,14 @@ Actual
 
 - work on the printf project for 4 hours
 - 4 contributions on GitHub
+
+---
+
+<h3>2/13</h3><br>
+Day OFF
+
+---
+
+<h3>2/14</h3><br>
+Plan
+
