@@ -158,3 +158,8 @@ Day OFF
 <h3>2/14</h3><br>
 Plan
 
+- work on the printf project for 5 hours
+- 10 contributions on GitHub
+- fix all bugs found by using one of printf testers
+
+Actual
