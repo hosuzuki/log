@@ -15,6 +15,9 @@
 
 - finished the libft project
 
+<h3>📍 Total: 819.5h<br></h3>
+<h3>📍 Ground Total: 819.5h</h3>
+
 <h2> :earth_asia: 2022 </h2>
 
 <h3> :zap: January </h3>
