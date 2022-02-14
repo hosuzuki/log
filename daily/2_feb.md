@@ -168,3 +168,11 @@ Actual
 - 12 contributions on GitHub
 
 ---
+
+<h3>2/15</h3><br>
+Plan
+- work on the printf project for 5 hours
+- 10 contributions on GitHub
+- complete fixing the bug using the 42TESTERS-PRINTF
+
+Actual
