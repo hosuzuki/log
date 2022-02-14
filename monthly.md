@@ -1,7 +1,4 @@
 <h2> :earth_asia: 2021 </h2>
-<h3> :zap: March </h3>
-
-
 <h3> :zap: April </h3>
 
 - finished the CS50x course up to Week 05's 
@@ -22,7 +19,7 @@
 
 <h3> :zap: January </h3>
 
--finished the get next line project
+- finished the get next line project
 
 <h3> :zap: February </h3>
 
