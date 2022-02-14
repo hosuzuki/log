@@ -163,3 +163,8 @@ Plan
 - fix all bugs found by using one of printf testers
 
 Actual
+
+- worked on the printf project for 6.5 hours
+- 12 contributions on GitHub
+
+---
