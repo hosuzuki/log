@@ -164,7 +164,7 @@ Plan
 
 Actual
 
-- worked on the printf project for 6.5 hours
+- worked on the printf project for 7.5 hours
 - 12 contributions on GitHub
 
 ---
