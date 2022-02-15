@@ -151,3 +151,6 @@ Day OFF
 - complete fixing the bug using the 42TESTERS-PRINTF
 
 :trophy: Acutual
+
+- worked on the printf project for 3.5 hours
+- 10 contributions on GitHub
