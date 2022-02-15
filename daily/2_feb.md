@@ -154,3 +154,11 @@ Day OFF
 
 - worked on the printf project for 3.5 hours
 - 10 contributions on GitHub
+
+
+<br><h3>:pushpin: 2/16</h3>
+:dart: Plan
+
+- work on the printf project for 5 hours
+- 10 contributions on GitHub
+- recreate ft_printf to pass mandetory only
