@@ -162,3 +162,10 @@ Day OFF
 - work on the printf project for 5 hours
 - 10 contributions on GitHub
 - recreate ft_printf to pass mandetory only
+
+:trophy: Acutual
+
+- worked on the printf project for 7 hours
+- 11 contributions on GitHub
+- recreated ft_printf to pass mandetory only
+
