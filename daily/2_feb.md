@@ -169,3 +169,11 @@ Day OFF
 - 11 contributions on GitHub
 - recreated ft_printf to pass mandetory only
 
+<br><h3>:pushpin: 2/17</h3>
+:dart: Plan
+
+- work on the 42 project for 8 hours
+- 11 contributions on GitHub
+- submit the ft_printf project
+- obtain a feedback on the ft_printf project
+
