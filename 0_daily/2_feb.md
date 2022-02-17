@@ -183,3 +183,11 @@ Day OFF
 - 11 contributions on GitHub
 - submitted the ft_printf project
 - an review on my ft_printf project was given and it marked 125% achievement
+
+<br><h3>:pushpin: 2/18</h3>
+:dart: Plan
+
+- work on the 42 project for 8 hours
+- 11 contributions on GitHub
+- obtain a feedback on the ft_printf project
+- understand the requirements of the Born2beRoot project
