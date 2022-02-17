@@ -177,3 +177,9 @@ Day OFF
 - submit the ft_printf project
 - obtain a feedback on the ft_printf project
 
+:trophy: Acutual
+
+- worked on the printf project for 8.5 hours
+- 11 contributions on GitHub
+- submitted the ft_printf project
+- an review on my ft_printf project was given and it marked 125% achievement
