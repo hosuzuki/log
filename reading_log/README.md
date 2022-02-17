@@ -1,1 +1,1 @@
-<h2> :earth_asia: my favorite 42 books </h2>
+<h2> :earth_asia: My favorite 42 books </h2>
