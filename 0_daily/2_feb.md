@@ -191,3 +191,14 @@ Day OFF
 - 11 contributions on GitHub
 - obtain a feedback on the ft_printf project
 - understand the requirements of the Born2beRoot project
+
+:trophy: Acutual
+
+- worked on the 42 projects for 8 hours
+- 20 contributions on GitHub
+- reviewed by two reviewers on my ft_printf priject
+- passed ft_printf project and marked 119%
+- understood the requirements of the Born2beRoot project
+
+
+
