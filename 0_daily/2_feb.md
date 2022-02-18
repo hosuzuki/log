@@ -200,5 +200,9 @@ Day OFF
 - passed ft_printf project and marked 119%
 - understood the requirements of the Born2beRoot project
 
+<br><h3>:pushpin: 2/19</h3>
+:dart: Plan
 
-
+- work on the Born2beRoot project for 8 hours
+- 11 contributions on GitHub
+- organize necessary information to pass the B2rB project in Zenn
