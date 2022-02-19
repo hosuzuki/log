@@ -209,7 +209,7 @@ Day OFF
 
 :trophy: Acutual
 
-- worked on the 42 projects for 7 hours
+- worked on the 42 projects for 7.5 hours
 - 11 contributions on GitHub
 - organize necessary information to pass the B2rB project in Zenn
 
