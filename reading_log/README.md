@@ -4,7 +4,7 @@
 
 :closed_book: 1. "The Devine Comedy" by Dante Alighieri
 
-
+:closed_book: 1. "The Tale of Genji" by Murasaki Shikibu
 
 
 
@@ -14,6 +14,9 @@
 
 :closed_book: 2. "Darma Bums" by Jack Kerouac
 
+:closed_book: 2. "Kusamakura" by Natsume Soseki 
+
+:closed_book: 2.Kappa by Ryosuke Akutagawa 
 
 
 
@@ -25,18 +28,29 @@
 
 :closed_book: 1. "Leonardo Da Vinci" by Walter Isaacson
 
+
+
+<h3> New Jornalism </h3>
+
+:closed_book: 1. "In Cold Blood" by Truman Capote
+
+:closed_book: 1. "Hell's Angels" by Hunter S. Thompson
+
+<h3> Criticism </h3>
+
 :closed_book: 1. "Illuminations: Essays and Reflections" by　Walter Benjamin 
 
-:closed_book: 1. "" by 
 
-:closed_book: 1. "" by 
 
-:closed_book: 1. "" by 
+<h3> Self-Help </h3>
 
-:closed_book: 1. "" by 
+:closed_book: 1. "Whatever you think, think the opposite" by Paul Arden
 
+:closed_book: 1. "A Whole New Mind" by Daniel H. Pink
 
 
 <h3> Comics </h3>
+
+:closed_book: 1. "Vagabond" by Takehiko Inoue 
 
 :closed_book: 1. "Understanding Comics" by Scott McCloud
