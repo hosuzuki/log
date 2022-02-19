@@ -1,6 +1,6 @@
 <h2> My favorite 42 books </h2>
 
-<h3> Classics </h3>
+<h3> Classic </h3>
 
 :closed_book: 1. "The Devine Comedy" by Dante Alighieri
 
@@ -8,7 +8,7 @@
 
 
 
-<h3> Fictions </h3>
+<h3> Fiction </h3>
 
 :closed_book: 1. "The Hitchhiker's Guide to the Galaxy" by Douglas Adams 
 
@@ -20,7 +20,7 @@
 
 
 
-<h3> Non-Fictions </h3>
+<h3> Non-Fiction </h3>
 
 :closed_book: 3. "Born to Run " by Christopher McDougall 
 
@@ -30,7 +30,7 @@
 
 
 
-<h3> New Jornalism </h3>
+<h3> New Journalism　</h3>
 
 :closed_book: 1. "In Cold Blood" by Truman Capote
 
@@ -49,7 +49,7 @@
 :closed_book: 1. "A Whole New Mind" by Daniel H. Pink
 
 
-<h3> Comics </h3>
+<h3> Comic </h3>
 
 :closed_book: 1. "Vagabond" by Takehiko Inoue 
 
