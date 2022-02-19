@@ -6,18 +6,23 @@
 
 :closed_book: 1. "The Tale of Genji" by Murasaki Shikibu
 
+:closed_book: 1. "Gulliver's Travels" by Jonathan Swift
+
+
+
 
 
 <h3> Fiction </h3>
 
 :closed_book: 1. "The Hitchhiker's Guide to the Galaxy" by Douglas Adams 
 
+:closed_book: 1. "Brave New World" by Aldous Huxley
+
 :closed_book: 2. "Darma Bums" by Jack Kerouac
 
 :closed_book: 2. "Kusamakura" by Natsume Soseki 
 
 :closed_book: 2. "Kappa" by Ryosuke Akutagawa 
-
 
 
 <h3> Non-Fiction </h3>
@@ -27,7 +32,6 @@
 :closed_book: 1. "The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World " by A. J. Jacobs
 
 :closed_book: 1. "Leonardo Da Vinci" by Walter Isaacson
-
 
 
 <h3> New Journalism　</h3>
