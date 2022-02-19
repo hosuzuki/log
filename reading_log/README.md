@@ -1,5 +1,6 @@
 <h2> My favorite 42 books </h2>
 
+
 <h3> Classic </h3>
 
 :closed_book: 1. "The Devine Comedy" by Dante Alighieri
@@ -17,6 +18,8 @@
 :closed_book: 1. "The Hitchhiker's Guide to the Galaxy" by Douglas Adams 
 
 :closed_book: 1. "Brave New World" by Aldous Huxley
+
+:closed_book: 1. "Inherit the Stars" by James Patrick Hogan
 
 :closed_book: 2. "Darma Bums" by Jack Kerouac
 
