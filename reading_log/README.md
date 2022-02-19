@@ -61,4 +61,8 @@
 
 :closed_book: 1. "Vagabond" by Takehiko Inoue 
 
+:closed_book: 1. "JoJo’s Bizarre Adventure" by Hirohiko Araki
+
+:closed_book: 1. "Dr. STONE" by Boichi, Riichiro Inagaki
+
 :closed_book: 1. "Understanding Comics" by Scott McCloud
