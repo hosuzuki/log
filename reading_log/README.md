@@ -42,7 +42,7 @@
 
 <h3> Criticism </h3>
 
-:closed_book: 1. "Illuminations: Essays and Reflections" by　Walter Benjamin 
+:closed_book: 1. "Illuminations: Essays and Reflections" by Walter Benjamin 
 
 
 
