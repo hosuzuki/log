@@ -3,12 +3,13 @@
 
 <h3> Classic </h3>
 
-:closed_book: 1. "The Devine Comedy" by Dante Alighieri
+:closed_book: 1. "Oedipus the King" by Sophocles
 
 :closed_book: 1. "The Tale of Genji" by Murasaki Shikibu
 
-:closed_book: 1. "Gulliver's Travels" by Jonathan Swift
+:closed_book: 1. "The Devine Comedy" by Dante Alighieri
 
+:closed_book: 1. "Gulliver's Travels" by Jonathan Swift
 
 
 
