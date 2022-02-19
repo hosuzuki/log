@@ -16,7 +16,7 @@
 
 :closed_book: 2. "Kusamakura" by Natsume Soseki 
 
-:closed_book: 2.Kappa by Ryosuke Akutagawa 
+:closed_book: 2. "Kappa" by Ryosuke Akutagawa 
 
 
 
