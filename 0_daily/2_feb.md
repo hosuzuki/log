@@ -206,3 +206,5 @@ Day OFF
 - work on the Born2beRoot project for 8 hours
 - 11 contributions on GitHub
 - organize necessary information to pass the B2rB project in Zenn
+
+
