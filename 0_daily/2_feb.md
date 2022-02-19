@@ -213,3 +213,12 @@ Day OFF
 - 11 contributions on GitHub
 - organize necessary information to pass the B2rB project in Zenn
 
+<br><h3>:pushpin: 2/20</h3>
+:dart: Plan
+
+- work on the Born2beRoot project for 8 hours
+- 11 contributions on GitHub
+- organize necessary information to pass the B2rB project in Zenn
+
+
+---
