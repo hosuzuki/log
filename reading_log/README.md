@@ -1,6 +1,6 @@
 <h2> My favorite 42 books </h2>
 
-<h3> Classic </h3>
+<h3> Classics </h3>
 
 :closed_book: 1. "The Devine Comedy" by Dante Alighieri
 
@@ -8,7 +8,7 @@
 
 
 
-<h3> Fictionｓ </h3>
+<h3> Fictions </h3>
 
 :closed_book: 1. "The Hitchhiker's Guide to the Galaxy" by Douglas Adams 
 
@@ -17,7 +17,7 @@
 
 
 
-<h3> Non-Fictionｓ </h3>
+<h3> Non-Fictions </h3>
 
 :closed_book: 3. "Born to Run " by Christopher McDougall 
 
