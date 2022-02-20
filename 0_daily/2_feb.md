@@ -212,6 +212,7 @@ Day OFF
 - worked on the 42 projects for 7.5 hours
 - 11 contributions on GitHub
 - organize necessary information to pass the B2rB project in Zenn
+- done installing the Debian and the set up
 
 <br><h3>:pushpin: 2/20</h3>
 :dart: Plan
@@ -220,5 +221,18 @@ Day OFF
 - 11 contributions on GitHub
 - organize necessary information to pass the B2rB project in Zenn
 
+:trophy: Acutual
+
+- worked on the 42 projects for 7 hours
+- 11 contributions on GitHub
+- try to remember commands in the Debian
+- gave a review on other people's Born2beRoot project
 
 ---
+
+<br><h3>:pushpin: 2/21</h3>
+:dart: Plan
+
+- work on the Born2beRoot project for 8 hours
+- 11 contributions on GitHub
+- 
