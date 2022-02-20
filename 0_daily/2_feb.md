@@ -235,4 +235,4 @@ Day OFF
 
 - work on the Born2beRoot project for 8 hours
 - 11 contributions on GitHub
-- 
+- be confortable to walk thourgh the Born2beRoot project
