@@ -243,4 +243,11 @@ Day OFF
 - 12 contributions on GitHub
 - worked on mandatory part of the Born2beRoot project
 
+<br><h3>:pushpin: 2/22</h3>
+:dart: Plan
+
+- work on the Born2beRoot project for 5 hours
+- 11 contributions on GitHub
+
 ---
+
