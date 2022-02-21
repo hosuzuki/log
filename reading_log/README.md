@@ -13,7 +13,6 @@
 
 
 
-
 <h3> Fiction </h3>
 
 :closed_book: 1. "The Hitchhiker's Guide to the Galaxy" by Douglas Adams 
@@ -29,6 +28,7 @@
 :closed_book: 2. "Kappa" by Ryosuke Akutagawa 
 
 
+
 <h3> Non-Fiction </h3>
 
 :closed_book: 3. "Born to Run " by Christopher McDougall 
@@ -37,7 +37,11 @@
 
 :closed_book: 1. "Leonardo Da Vinci" by Walter Isaacson
 
+:closed_book: 1. "What I Talk About When I Talk About Running" by Haruki Murakami 
 
+:closed_book: 1. "The Story of Art" by E.H. Gombrich
+
+:closed_book: 1. 
 
 
 <h3> New Journalism　</h3>
@@ -46,9 +50,12 @@
 
 :closed_book: 1. "Hell's Angels" by Hunter S. Thompson
 
+
+
 <h3> Criticism </h3>
 
 :closed_book: 1. "Illuminations: Essays and Reflections" by Walter Benjamin 
+
 
 
 
@@ -57,6 +64,7 @@
 :closed_book: 1. "Whatever you think, think the opposite" by Paul Arden
 
 :closed_book: 1. "A Whole New Mind" by Daniel H. Pink
+
 
 
 <h3> Comic </h3>
