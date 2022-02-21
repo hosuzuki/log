@@ -5,11 +5,11 @@
 
 :closed_book: 1. "Oedipus the King" by Sophocles
 
-:closed_book: 1. "The Tale of Genji" by Murasaki Shikibu
+:closed_book: 2. "The Tale of Genji" by Murasaki Shikibu
 
-:closed_book: 1. "The Devine Comedy" by Dante Alighieri
+:closed_book: 3. "The Devine Comedy" by Dante Alighieri
 
-:closed_book: 1. "Gulliver's Travels" by Jonathan Swift
+:closed_book: 4. "Gulliver's Travels" by Jonathan Swift
 
 
 
@@ -36,6 +36,8 @@
 :closed_book: 1. "The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World " by A. J. Jacobs
 
 :closed_book: 1. "Leonardo Da Vinci" by Walter Isaacson
+
+
 
 
 <h3> New Journalism　</h3>
