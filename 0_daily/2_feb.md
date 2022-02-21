@@ -236,3 +236,11 @@ Day OFF
 - work on the Born2beRoot project for 8 hours
 - 11 contributions on GitHub
 - be confortable to walk thourgh the Born2beRoot project
+
+:trophy: Acutual
+
+- worked on the 42 projects for 3.5 hours
+- 12 contributions on GitHub
+- worked on mandatory part of the Born2beRoot project
+
+---
