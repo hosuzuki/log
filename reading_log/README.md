@@ -13,6 +13,7 @@
 
 
 
+
 <h3> Fiction </h3>
 
 :closed_book: 1. "The Hitchhiker's Guide to the Galaxy" by Douglas Adams 
@@ -29,6 +30,7 @@
 
 :closed_book: 2. "Story of the Eye" by Georges Bataille 
 
+:closed_book: 2. "Bartleby & Co." by Enrique Vila-Matas
 
 
 <h3> Non-Fiction </h3>
