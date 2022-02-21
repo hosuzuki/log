@@ -27,6 +27,8 @@
 
 :closed_book: 2. "Kappa" by Ryosuke Akutagawa 
 
+:closed_book: 2. "Story of the Eye" by Georges Bataille 
+
 
 
 <h3> Non-Fiction </h3>
