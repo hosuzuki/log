@@ -45,8 +45,6 @@
 
 :closed_book: 1. "The Story of Art" by E.H. Gombrich
 
-:closed_book: 1. 
-
 
 <h3> New Journalism　</h3>
 
@@ -68,6 +66,8 @@
 :closed_book: 1. "Whatever you think, think the opposite" by Paul Arden
 
 :closed_book: 1. "A Whole New Mind" by Daniel H. Pink
+
+:closed_book: 1. "The Effective Executive" by Peter F. Drucker 
 
 
 
