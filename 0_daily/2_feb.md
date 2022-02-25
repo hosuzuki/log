@@ -266,10 +266,25 @@ Day OFF
 - worked on the 42 projects for 1.5 hours
 - 11 contributions on GitHub
 
-<br><h3>:pushpin: 2/23</h3>
+<br><h3>:pushpin: 2/24</h3>
 :dart: Plan
 
 - work on the Born2beRoot project for 5 hours
 - 10 contributions on GitHub
 
+:trophy: Acutual
 
+- worked on the 42 projects for 5.5 hours
+- 11 contributions on GitHub
+
+
+<br><h3>:pushpin: 2/25</h3>
+:dart: Plan
+
+- work on the Born2beRoot project for 5 hours
+- 10 contributions on GitHub
+
+:trophy: Acutual
+
+- worked on the 42 projects for 5.5 hours
+- 11 contributions on GitHub
