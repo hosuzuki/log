@@ -297,5 +297,17 @@ Day OFF
 - 10 contributions on GitHub
 - submit the Born2beRoot project for review
 
+:trophy: Acutual
+
+- worked on the 42 projects for 7.5 hours
+- 12 contributions on GitHub
 
 ---
+
+<br><h3>:pushpin: 2/27</h3>
+:dart: Plan
+
+- work on the Born2beRoot project for 5 hours
+- 10 contributions on GitHub
+- submit the Born2beRoot project for review
+
