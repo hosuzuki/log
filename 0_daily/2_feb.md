@@ -316,3 +316,9 @@ Day OFF
 
 ---
 
+<br><h3>:pushpin: 2/28</h3>
+:dart: Plan
+
+- work on the Born2beRoot and minitalk project for 5 hours
+- 10 contributions on GitHub
+
