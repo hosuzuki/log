@@ -4,7 +4,7 @@
 
 - work on the printf project for 5 hours
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 3.5 hours
 - gave a peer evaluation to other student for 1 hour
@@ -15,7 +15,7 @@
 - work on the printf project for 5 hours
 - set up standing desk for coding
 
-:trophy: Acutual
+:trophy: Actual
 
 - work on the printf project for 1 hours
 - set up standing desk for coding
@@ -25,7 +25,7 @@
 
 - work on the printf project for 5 hours
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 3 hours
 
@@ -34,7 +34,7 @@
 
 - work on the printf project for 5 hours
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 3.5 hours
 
@@ -43,7 +43,7 @@
 
 - work on the printf project for 5 hours
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 1 hours
 
@@ -53,7 +53,7 @@
 
 - work on the printf project for 1 hours
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 1 hours
 
@@ -65,7 +65,7 @@
 - work on the printf project for 2 hours
 - 4 contributions on GitHub
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 2 hours
 - 7 contributions on GitHub
@@ -76,7 +76,7 @@
 - work on the printf project for 3 hours
 - 7 contributions on GitHub
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 2 hours
 - 2 contributions on GitHub
@@ -87,7 +87,7 @@
 - work on the printf project for 3 hours
 - 7 contributions on GitHub
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 6 hours
 - 13 contributions on GitHub
@@ -98,7 +98,7 @@
 - work on the printf project for 5 hours
 - 10 contributions on GitHub
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 6 hours
 - 13 contributions on GitHub
@@ -110,7 +110,7 @@
 - 10 contributions on GitHub
 - submit ft_printf for a review
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 4 hours
 - 6 contributions on GitHub
@@ -122,7 +122,7 @@
 - 10 contributions on GitHub
 - fix all bugs found by using printf testers
 
-:trophy: Acutual
+:trophy: Actual
 
 - work on the printf project for 4 hours
 - 4 contributions on GitHub
@@ -139,7 +139,7 @@ Day OFF
 - 10 contributions on GitHub
 - fix all bugs found by using one of printf testers
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 7.5 hours
 - 12 contributions on GitHub
@@ -151,7 +151,7 @@ Day OFF
 - 10 contributions on GitHub
 - complete fixing the bug using the 42TESTERS-PRINTF
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 3.5 hours
 - 10 contributions on GitHub
@@ -164,7 +164,7 @@ Day OFF
 - 10 contributions on GitHub
 - recreate ft_printf to pass mandetory only
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 7 hours
 - 11 contributions on GitHub
@@ -178,7 +178,7 @@ Day OFF
 - submit the ft_printf project
 - obtain a feedback on the ft_printf project
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the printf project for 8.5 hours
 - 11 contributions on GitHub
@@ -193,7 +193,7 @@ Day OFF
 - obtain a feedback on the ft_printf project
 - understand the requirements of the Born2beRoot project
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 8 hours
 - 20 contributions on GitHub
@@ -208,7 +208,7 @@ Day OFF
 - 11 contributions on GitHub
 - organize necessary information to pass the B2rB project in Zenn
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 7.5 hours
 - 11 contributions on GitHub
@@ -222,7 +222,7 @@ Day OFF
 - 11 contributions on GitHub
 - organize necessary information to pass the B2rB project in Zenn
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 7 hours
 - 11 contributions on GitHub
@@ -238,7 +238,7 @@ Day OFF
 - 11 contributions on GitHub
 - be confortable to walk thourgh the Born2beRoot project
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 3.5 hours
 - 12 contributions on GitHub
@@ -250,7 +250,7 @@ Day OFF
 - work on the Born2beRoot project for 5 hours
 - 11 contributions on GitHub
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 2 hours
 - 12 contributions on GitHub
@@ -261,7 +261,7 @@ Day OFF
 - work on the Born2beRoot project for 5 hours
 - 10 contributions on GitHub
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 1.5 hours
 - 11 contributions on GitHub
@@ -272,7 +272,7 @@ Day OFF
 - work on the Born2beRoot project for 5 hours
 - 10 contributions on GitHub
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 5.5 hours
 - 13 contributions on GitHub
@@ -285,7 +285,7 @@ Day OFF
 - work on the Born2beRoot project for 5 hours
 - 10 contributions on GitHub
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 5 hours
 - 10 contributions on GitHub
@@ -297,7 +297,7 @@ Day OFF
 - 10 contributions on GitHub
 - submit the Born2beRoot project for review
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 7.5 hours
 - 12 contributions on GitHub
@@ -309,7 +309,7 @@ Day OFF
 - 10 contributions on GitHub
 - submit the Born2beRoot project for review
 
-:trophy: Acutual
+:trophy: Actual
 
 - worked on the 42 projects for 5.5 hours :100:
 - 13 contributions on GitHub :100:
