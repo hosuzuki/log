@@ -1,3 +1,3 @@
 <h2> :earth_asia: 2022 </h2>
 
-<h3> :zap: 42 Tokyo:  </h3>
+:heavy_check_mark:  42 Tokyo:  
