@@ -322,3 +322,7 @@ Day OFF
 - work on the Born2beRoot and minitalk project for 5 hours
 - 10 contributions on GitHub
 
+:trophy: Actual
+
+- worked on the 42 projects for 5.5 hours :100:
+- 15 contributions on GitHub :100:
