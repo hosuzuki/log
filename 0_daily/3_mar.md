@@ -1,4 +1,4 @@
-<br><h3>:pushpin: 2/27</h3>
+<br><h3>:pushpin: 3/1</h3>
 :dart: Plan
 
 - work on the Born2beRoot project for 5 hours
@@ -7,6 +7,15 @@
 
 :trophy: Result
 
-- worked on the 42 projects for 5.5 hours :100:
-- 13 contributions on GitHub :100:
+- worked on the 42 projects for 9.5 hours :100:
+- 14 contributions on GitHub :100:
+- submitted the Born2beRoot project for review
+- was reviewed on the project by two people (fail)
 
+<br><h3>:pushpin: 3/2</h3>
+:dart: Plan
+
+- work on the minitalk project for 5 hours
+- 10 contributions on GitHub
+
+:trophy: Result
