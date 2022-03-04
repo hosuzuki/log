@@ -30,3 +30,9 @@
 - work on the minitalk project for 3 hours
 - 10 contributions on GitHub
 - submit the Born2beRoot project for review
+
+
+:trophy: Result
+
+- worked on the 42 projects for 3 hours 
+- 14 contributions on GitHub :100:
