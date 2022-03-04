@@ -44,5 +44,10 @@
 - work on the minitalk project for 3 hours
 - 10 contributions on GitHub
 
+:trophy: Result
+
+- worked on the 42 projects for 2.5 hours
+- 15 contributions on GitHub :100:
+
 
 
