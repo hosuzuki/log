@@ -49,5 +49,10 @@
 - worked on the 42 projects for 2.5 hours
 - 15 contributions on GitHub :100:
 
+<br><h3>:pushpin: 3/5</h3>
+:dart: Plan
 
+- work on the minitalk project for 5 hours
+- 10 contributions on GitHub
+- finish B2rB project
 
