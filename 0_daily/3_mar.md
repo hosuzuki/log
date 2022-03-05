@@ -62,3 +62,10 @@
 - worked on the minitalk project for 4 hours
 - 12 contributions on GitHub :100:
 - finished B2rB project (125%):100:
+
+<br><h3>:pushpin: 3/6</h3>
+:dart: Plan
+
+- work on the minitalk project for 7 hours
+- 10 contributions on GitHub
+- finish 1st draft of the minitalk project
