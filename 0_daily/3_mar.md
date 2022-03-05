@@ -56,3 +56,9 @@
 - 10 contributions on GitHub
 - finish B2rB project
 
+
+:trophy: Result
+
+- worked on the minitalk project for 4 hours
+- 12 contributions on GitHub :100:
+- finished B2rB project (125%):100:
