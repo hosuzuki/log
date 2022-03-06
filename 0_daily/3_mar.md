@@ -76,3 +76,10 @@
 - worked on the minitalk project for 6 hours :100:
 - 13 contributions on GitHub :100:
 - finished 1st draft of the minitalk project :100:
+
+<br><h3>:pushpin: 3/7</h3>
+:dart: Plan
+
+- work on the minitalk project for 5 hours
+- 10 contributions on GitHub
+- submit the minitalk
