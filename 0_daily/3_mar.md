@@ -83,3 +83,9 @@
 - work on the minitalk project for 5 hours
 - 10 contributions on GitHub
 - submit the minitalk
+
+:trophy: Result
+
+- worked on the minitalk project for 5 hours :100:
+- 9 contributions on GitHub 
+- finished final draft of the minitalk project 
