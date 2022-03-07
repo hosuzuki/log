@@ -89,3 +89,10 @@
 - worked on the minitalk project for 5 hours :100:
 - 9 contributions on GitHub 
 - finished final draft of the minitalk project 
+
+<br><h3>:pushpin: 3/8</h3>
+:dart: Plan
+
+- work on the minitalk project for 5 hours
+- 10 contributions on GitHub
+- submit the minitalk and get reviewed by one person
