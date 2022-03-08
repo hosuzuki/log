@@ -102,3 +102,10 @@
 - worked on the 42 project for 6.55 hours :100:
 - 11 contributions on GitHub :100:
 - submitted the minitalk project and reviewed by two people :100:
+
+<br><h3>:pushpin: 3/8</h3>
+:dart: Plan
+
+- work on the push_swap project for 5 hours
+- 10 contributions on GitHub
+- get reviewed on the minitalk project by one person and beat the project
