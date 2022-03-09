@@ -122,4 +122,4 @@
 :dart: Plan
 - work on the push_swap project for 5 hours
 - 10 contributions on GitHub
-- 
+- understand how doubly circular linked list works by playing with a sample code
