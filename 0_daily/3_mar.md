@@ -120,3 +120,5 @@
 
 <br><h3>:pushpin: 3/9</h3>
 :dart: Plan
+- work on the push_swap project for 5 hours
+- 10 contributions on GitHub
