@@ -117,3 +117,6 @@
 - 1 contributions on GitHub :100:
 - beaten the minitalk project (125%) :100:
 - attended 42 Tokyo's event "Resilience Programming"
+
+<br><h3>:pushpin: 3/9</h3>
+:dart: Plan
