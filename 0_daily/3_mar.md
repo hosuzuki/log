@@ -116,9 +116,10 @@
 - worked on the 42 project for 5 hours :100:
 - 1 contributions on GitHub :100:
 - beaten the minitalk project (125%) :100:
-- attended 42 Tokyo's event "Resilience Programming"
+- attended 42 Tokyo's event "Resilience Programming":100:
 
 <br><h3>:pushpin: 3/9</h3>
 :dart: Plan
 - work on the push_swap project for 5 hours
 - 10 contributions on GitHub
+- 
