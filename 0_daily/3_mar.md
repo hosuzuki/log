@@ -114,7 +114,7 @@
 :trophy: Result
 
 - worked on the 42 project for 5 hours :100:
-- 1 contributions on GitHub :100:
+- 10 contributions on GitHub :100:
 - beaten the minitalk project (125%) :100:
 - attended 42 Tokyo's event "Resilience Programming":100:
 
