@@ -103,7 +103,7 @@
 - 11 contributions on GitHub :100:
 - submitted the minitalk project and reviewed by two people :100:
 
-<br><h3>:pushpin: 3/8</h3>
+<br><h3>:pushpin: 3/9</h3>
 :dart: Plan
 
 - work on the push_swap project for 5 hours
@@ -117,7 +117,7 @@
 - beaten the minitalk project (125%) :100:
 - attended 42 Tokyo's event "Resilience Programming":100:
 
-<br><h3>:pushpin: 3/9</h3>
+<br><h3>:pushpin: 3/10</h3>
 :dart: Plan
 - work on the push_swap project for 5 hours
 - 10 contributions on GitHub
@@ -127,4 +127,11 @@
 
 - worked on the 42 project for 6.5 hours :100:
 - 14 contributions on GitHub :100:
-- understood how doubly circular linked list works by playing with a sample code
+- understood how doubly circular linked list works by playing with a sample code:100:
+
+<br><h3>:pushpin: 3/11</h3>
+:dart: Plan
+- work on the push_swap project for 5 hours
+- 10 contributions on GitHub
+- understand how quick sort and bucket sort work
+
