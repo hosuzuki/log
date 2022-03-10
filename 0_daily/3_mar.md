@@ -110,7 +110,6 @@
 - 10 contributions on GitHub
 - get reviewed on the minitalk project by one person and beat the project
 
-
 :trophy: Result
 
 - worked on the 42 project for 5 hours :100:
@@ -123,3 +122,9 @@
 - work on the push_swap project for 5 hours
 - 10 contributions on GitHub
 - understand how doubly circular linked list works by playing with a sample code
+
+:trophy: Result
+
+- worked on the 42 project for 6.5 hours :100:
+- 14 contributions on GitHub :100:
+- understood how doubly circular linked list works by playing with a sample code
