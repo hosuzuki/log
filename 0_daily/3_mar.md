@@ -135,3 +135,9 @@
 - 10 contributions on GitHub
 - understand how quick sort and bucket sort work
 
+:trophy: Result
+
+- worked on the 42 project for 6.5 hours :100:
+- 10 contributions on GitHub :100:
+- understood how quick sort works
+
