@@ -141,3 +141,8 @@
 - 10 contributions on GitHub :100:
 - understood how quick sort works
 
+<br><h3>:pushpin: 3/12</h3>
+:dart: Plan
+- work on the push_swap project for 5 hours
+- 10 contributions on GitHub
+- understand how bucket sort work with a sample code
