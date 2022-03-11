@@ -1,4 +1,4 @@
-<h2> My favorite 42 Movie and TV series </h2>
+<h2> My favorite 42 Movies and TV series </h2>
 
 
 <h2> Movie </h2>
