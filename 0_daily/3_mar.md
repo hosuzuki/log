@@ -146,3 +146,16 @@
 - work on the push_swap project for 5 hours
 - 10 contributions on GitHub
 - understand how bucket sort work with a sample code
+
+
+:trophy: Result
+
+- worked on the 42 project for 8 hours :100:
+- 12 contributions on GitHub :100:
+
+
+<br><h3>:pushpin: 3/13</h3>
+:dart: Plan
+- work on the push_swap project for 5 hours
+- 10 contributions on GitHub
+- understand how bucket sort work with a sample code
