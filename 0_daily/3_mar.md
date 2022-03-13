@@ -77,6 +77,8 @@
 - 13 contributions on GitHub :100:
 - finished 1st draft of the minitalk project :100:
 
+---
+
 <br><h3>:pushpin: 3/7</h3>
 :dart: Plan
 
@@ -165,6 +167,8 @@
 - worked on the 42 project for 8.5 hours :100:
 - 14 contributions on GitHub :100:
 - understood how bucket sort work with a sample code:100:
+
+---
 
 <br><h3>:pushpin: 3/14</h3>
 :dart: Plan
