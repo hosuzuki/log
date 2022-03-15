@@ -175,3 +175,10 @@
 - work on the push_swap project for 5 hours
 - 10 contributions on GitHub
 - finish 1st draft
+
+
+:trophy: Result
+
+- worked on the 42 project for 8.5 hours :100:
+- 14 contributions on GitHub :100:
+- understood how bucket sort work with a sample code:100:
