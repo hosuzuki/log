@@ -179,6 +179,13 @@
 
 :trophy: Result
 
-- worked on the 42 project for 8.5 hours :100:
-- 14 contributions on GitHub :100:
-- understood how bucket sort work with a sample code:100:
+- worked on the 42 project for 9 hours :100:
+- 11 contributions on GitHub :100:
+- finished 1st draft:100:
+
+<br><h3>:pushpin: 3/15</h3>
+:dart: Plan
+- work on the push_swap project for 5 hours
+- 10 contributions on GitHub
+- finish 2nd draft
+
