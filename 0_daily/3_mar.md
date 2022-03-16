@@ -199,3 +199,9 @@
 - work on the push_swap project for 5 hours
 - 10 contributions on GitHub
 - finish bonus part of the push_swap project
+
+:trophy: Result
+
+- worked on the 42 project for 9 hours :100:
+- 16 contributions on GitHub :100:
+- finished bonus part of the push_swap projectt:100:
