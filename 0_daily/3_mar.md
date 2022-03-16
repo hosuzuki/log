@@ -205,3 +205,9 @@
 - worked on the 42 project for 9 hours :100:
 - 16 contributions on GitHub :100:
 - finished bonus part of the push_swap projectt:100:
+
+<br><h3>:pushpin: 3/17</h3>
+:dart: Plan
+- work on the push_swap project for 5 hours
+- 10 contributions on GitHub
+- submit the push_swap project
