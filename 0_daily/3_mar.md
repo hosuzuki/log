@@ -203,7 +203,7 @@
 :trophy: Result
 
 - worked on the 42 project for 9 hours :100:
-- 16 contributions on GitHub :100:
+- 15 contributions on GitHub :100:
 - finished bonus part of the push_swap projectt:100:
 
 <br><h3>:pushpin: 3/17</h3>
