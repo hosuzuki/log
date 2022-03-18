@@ -211,3 +211,14 @@
 - work on the push_swap project for 5 hours
 - 10 contributions on GitHub
 - submit the push_swap project
+
+:trophy: Result
+
+- worked on the 42 project for 8 hours :100:
+- 18 contributions on GitHub :100:
+- submitted the push_swap and reviewed by a person project:100:
+- 
+<br><h3>:pushpin: 3/18</h3>
+:dart: Plan
+- exam prep for 5 hours
+- 10 contributions on GitHub
