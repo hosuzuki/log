@@ -81,13 +81,11 @@
 
 <br><h3>:pushpin: 3/7</h3>
 :dart: Plan
-
 - work on the minitalk project for 5 hours
 - 10 contributions on GitHub
 - submit the minitalk
 
 :trophy: Result
-
 - worked on the minitalk project for 5 hours :100:
 - 9 contributions on GitHub 
 - finished final draft of the minitalk project 
@@ -100,7 +98,6 @@
 - submit the minitalk and get reviewed by one person
 
 :trophy: Result
-
 - worked on the 42 project for 6.5 hours :100:
 - 11 contributions on GitHub :100:
 - submitted the minitalk project and reviewed by two people :100:
@@ -113,7 +110,6 @@
 - get reviewed on the minitalk project by one person and beat the project
 
 :trophy: Result
-
 - worked on the 42 project for 5 hours :100:
 - 10 contributions on GitHub :100:
 - beaten the minitalk project (125%) :100:
@@ -126,7 +122,6 @@
 - understand how doubly circular linked list works by playing with a sample code
 
 :trophy: Result
-
 - worked on the 42 project for 6.5 hours :100:
 - 14 contributions on GitHub :100:
 - understood how doubly circular linked list works by playing with a sample code:100:
@@ -138,7 +133,6 @@
 - understand how quick sort and bucket sort work
 
 :trophy: Result
-
 - worked on the 42 project for 6.5 hours :100:
 - 10 contributions on GitHub :100:
 - understood how quick sort works
@@ -151,7 +145,6 @@
 
 
 :trophy: Result
-
 - worked on the 42 project for 8 hours :100:
 - 12 contributions on GitHub :100:
 
@@ -163,7 +156,6 @@
 - understand how bucket sort work with a sample code
 
 :trophy: Result
-
 - worked on the 42 project for 8.5 hours :100:
 - 14 contributions on GitHub :100:
 - understood how bucket sort work with a sample code:100:
@@ -177,7 +169,6 @@
 - finish 1st draft
 
 :trophy: Result
-
 - worked on the 42 project for 9 hours :100:
 - 11 contributions on GitHub :100:
 - finished 1st draft:100:
@@ -189,7 +180,6 @@
 - finish 2nd draft
 
 :trophy: Result
-
 - worked on the 42 project for 9 hours :100:
 - 16 contributions on GitHub :100:
 - finished 2nd draft:100:
@@ -201,7 +191,6 @@
 - finish bonus part of the push_swap project
 
 :trophy: Result
-
 - worked on the 42 project for 9 hours :100:
 - 15 contributions on GitHub :100:
 - finished bonus part of the push_swap projectt:100:
@@ -213,7 +202,6 @@
 - submit the push_swap project
 
 :trophy: Result
-
 - worked on the 42 project for 8 hours :100:
 - 18 contributions on GitHub :100:
 - submitted the push_swap and reviewed by a person project:100:
@@ -225,6 +213,10 @@
 - 10 contributions on GitHub
 
 :trophy: Result
-
 - exam prep for 8 hours :100:
 - 12 contributions on GitHub :100:
+
+<br><h3>:pushpin: 3/19</h3>
+:dart: Plan
+- exam prep for 5 hours
+- 10 contributions on GitHub
