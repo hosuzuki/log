@@ -237,6 +237,8 @@
 - 12 contributions on GitHub :100:
 - passed the push_swap project (125%) :100:
 
+---
+
 <br><h3>:pushpin: 3/21</h3>
 :dart: Plan
 - exam prep for 5 hours
