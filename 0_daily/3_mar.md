@@ -229,3 +229,8 @@
 :dart: Plan
 - exam prep for 5 hours
 - 10 contributions on GitHub
+
+:trophy: Result
+- exam prep for 9 hours :100:
+- 12 contributions on GitHub :100:
+- passed the push_swap project (125%) :100:
