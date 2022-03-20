@@ -231,6 +231,14 @@
 - 10 contributions on GitHub
 
 :trophy: Result
-- exam prep for 9 hours :100:
+- exam prep for 6 hours :100:
+- total study hour is 9 hours :100:
+- reviewed on my push_swap project by two people :100:
 - 12 contributions on GitHub :100:
 - passed the push_swap project (125%) :100:
+
+<br><h3>:pushpin: 3/21</h3>
+:dart: Plan
+- exam prep for 5 hours
+- 10 contributions on GitHub
+
