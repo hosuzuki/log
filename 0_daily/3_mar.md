@@ -252,5 +252,6 @@
 :dart: Plan
 - 42 Tokyo's project for 5 hours
 - fixed all bugs of ft_printf
+- install MiniLibX
 - 10 contributions on GitHub
 
