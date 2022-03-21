@@ -244,8 +244,13 @@
 - exam prep for 5 hours
 - 10 contributions on GitHub
 
-
 :trophy: Result
 - exam prep for 8.5 hours :100:
 - 15 contributions on GitHub :100:
+
+<br><h3>:pushpin: 3/22</h3>
+:dart: Plan
+- 42 Tokyo's project for 5 hours
+- fixed all bugs of ft_printf
+- 10 contributions on GitHub
 
