@@ -244,3 +244,8 @@
 - exam prep for 5 hours
 - 10 contributions on GitHub
 
+
+:trophy: Result
+- exam prep for 8.5 hours :100:
+- 15 contributions on GitHub :100:
+
