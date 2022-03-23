@@ -251,15 +251,17 @@
 <br><h3>:pushpin: 3/22</h3>
 :dart: Plan
 - 42 Tokyo's project for 5 hours
-- fixed all bugs of ft_printf
+- fix all bugs of ft_printf
 - install MiniLibX
 - 10 contributions on GitHub
 
-
+:trophy: Result
+- exam prep for 6.5 hours :100:
+- fixed all bugs of ft_printf:100:
+- 13 contributions on GitHub :100:
+- installed MiniLibX :100:
 
 <br><h3>:pushpin: 3/23</h3>
 :dart: Plan
 - 42 Tokyo's project for 5 hours
-- fixed all bugs of ft_printf
-- install MiniLibX
 - 10 contributions on GitHub
