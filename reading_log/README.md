@@ -11,8 +11,7 @@
 
 :closed_book: 4. "Gulliver's Travels" by Jonathan Swift
 
-
-
+:closed_book: 5. "Capital" by Karl Marx and Friedrich Engels
 
 <h3> Fiction </h3>
 
@@ -51,7 +50,6 @@
 :closed_book: 1. "In Cold Blood" by Truman Capote
 
 :closed_book: 1. "Hell's Angels" by Hunter S. Thompson
-
 
 
 <h3> Criticism </h3>
