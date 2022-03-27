@@ -285,8 +285,9 @@
 - 10 contributions on GitHub
 
 :trophy: Result
-- 42 Tokyo's project for 4 hours 
+- 42 Tokyo's project for 2 hours 
 - 10 contributions on GitHub :100:
+
 
 <br><h3>:pushpin: 3/27</h3>
 :dart: Plan
