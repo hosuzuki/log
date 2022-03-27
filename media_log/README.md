@@ -2,7 +2,9 @@
 
 
 <h2> Movie </h2>
+
 <h3> Action </h3>
+
 <h4>:zap: "" </h4>
 
 
@@ -22,7 +24,9 @@
 <h4>:zap: "AKIRA"</h4>
 
 
+<br>
 <h2> TV series </h2>
+
 
 <h3> Action </h3>
 
@@ -31,10 +35,13 @@
 <h4>:zap: "Mr. Robot"</h4>
 
 <h3> Comedy </h3>
+
 <h4>:zap: "Brooklyn Nine-Nine"</h4>
+
 <h4>:zap: "Sex Education"</h4>
 
 <h3> Animation </h3>
+
 <h4>:zap: "Kill la Kill" </h4>
 
 <h4>:zap: "Lupin the Third: Mine Fujiko to iu onna" </h4>
