@@ -334,3 +334,4 @@
 - 42 Tokyo's project for 5 hours
 - 10 contributions on GitHub
 - finish fract-ol project
+- read "The UNIX Philosophy"
