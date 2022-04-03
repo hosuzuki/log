@@ -13,9 +13,12 @@
 <h3>Other </h3>
 
 :dart: Goal
-- complete the 5th ring in the first circle of 42 Tokyo
-
+- earn the black belt in Aikido
+- establish the routine to practice sitting down with the legs straight(full split)
+- declutter my home for simple living (except books)
+- 
 
 :trophy: Result
 
 :heavy_check_mark: 
+
