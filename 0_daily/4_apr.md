@@ -20,6 +20,8 @@
 - 10 contributions on GitHub :100:
 - wrote a book review of "The UNIX Philosophy":100:
 
+---
+
 <br><h3>:pushpin: 4/3　</h3>
 :dart: Plan
 - 42 Tokyo's project for 5 hours
