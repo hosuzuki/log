@@ -49,3 +49,12 @@
 - 10 contributions on GitHub
 - beat exam rank 02
 
+:trophy: Result
+- 42 Tokyo's project for 8.5 hours:100:
+- 14 contributions on GitHub :100:
+- passed Exam Rank 02 (100/100) :100:
+
+<br><h3>:pushpin: 4/6　</h3>
+:dart: Plan
+- 42 Tokyo's project for 5 hours
+- 10 contributions on GitHub
