@@ -60,3 +60,7 @@
 :dart: Plan
 - 42 Tokyo's project for 5 hours
 - 10 contributions on GitHub
+
+:trophy: Result
+- 42 Tokyo's project for 5.5 hours :100:
+- 9 contributions on GitHub 
