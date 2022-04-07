@@ -64,3 +64,13 @@
 :trophy: Result
 - 42 Tokyo's project for 5.5 hours :100:
 - 9 contributions on GitHub 
+
+<br><h3>:pushpin: 4/7　</h3>
+:dart: Plan
+- 42 Tokyo's project for 5 hours
+- 10 contributions on GitHub
+
+:trophy: Result
+- 42 Tokyo's project for 8 hours :100:
+- 16 contributions on GitHub :100:
+
