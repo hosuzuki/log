@@ -79,3 +79,12 @@
 - 42 Tokyo's project for 5 hours
 - 10 contributions on GitHub
 - Start the philosophers project
+
+:trophy: Result
+- 42 Tokyo's project for 2 hours
+- 10 contributions on GitHub :100:
+- Started the philosophers project:100:
+
+<br><h3>:pushpin: 4/9　</h3>
+:dart: Plan
+- day off
