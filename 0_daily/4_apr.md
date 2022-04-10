@@ -86,3 +86,14 @@
 <br><h3>:pushpin: 4/9　</h3>
 :dart: Plan
 - day off
+
+<br><h3>:pushpin: 4/10　</h3>
+:dart: Plan
+- 42 Tokyo's project for 5 hours
+- 10 contributions on GitHub
+- exam prep
+
+:trophy: Result
+- 42 Tokyo's project for 2.5 hours
+- 10 contributions on GitHub :100:
+- exam prep:100:
