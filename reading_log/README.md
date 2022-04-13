@@ -45,6 +45,13 @@
 :closed_book: 1. "The Story of Art" by E.H. Gombrich
 
 
+
+<h3> Autobiography</h3>
+
+:closed_book: 1.　"Memories, Dreams, Reflections: An Autobiography" by Carl Jung
+
+
+
 <h3> New Journalism　</h3>
 
 :closed_book: 1. "In Cold Blood" by Truman Capote
@@ -58,7 +65,6 @@
 
 
 
-
 <h3> Self-Help </h3>
 
 :closed_book: 1. "Whatever you think, think the opposite" by Paul Arden
@@ -66,7 +72,6 @@
 :closed_book: 1. "A Whole New Mind" by Daniel H. Pink
 
 :closed_book: 1. "The Effective Executive" by Peter F. Drucker 
-
 
 
 <h3> Comic </h3>
