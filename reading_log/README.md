@@ -86,3 +86,4 @@
 :closed_book: 1. "Dr. STONE" by Boichi, Riichiro Inagaki
 
 :closed_book: 1. "Understanding Comics" by Scott McCloud
+
