@@ -50,7 +50,7 @@
 
 :closed_book: 1.　"Memories, Dreams, Reflections: An Autobiography" by Carl Jung
 
-
+:closed_book: 1. "The Autobiography of Benjamin Franklin" by  Benjamin Franklin
 
 <h3> New Journalism　</h3>
 
