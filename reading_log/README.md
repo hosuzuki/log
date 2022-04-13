@@ -63,6 +63,7 @@
 
 :closed_book: 1. "Illuminations: Essays and Reflections" by Walter Benjamin 
 
+:closed_book: 1. "Art as Experience" by John Dewey
 
 
 <h3> Self-Help </h3>
