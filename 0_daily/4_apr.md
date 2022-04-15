@@ -141,6 +141,7 @@
 - 10 contributions on GitHub
 
 :trophy: Result
-- 10 contributions on GitHub :100:
+- 42 Tokyo's project for 2.5 hours :100:
+- - 10 contributions on GitHub :100:
 
 ---
