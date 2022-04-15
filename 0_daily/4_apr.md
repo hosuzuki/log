@@ -139,3 +139,8 @@
 <br><h3>:pushpin: 4/15　</h3>
 :dart: Plan
 - 10 contributions on GitHub
+
+:trophy: Result
+- 10 contributions on GitHub :100:
+
+---
