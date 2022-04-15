@@ -144,4 +144,8 @@
 - 42 Tokyo's project for 2.5 hours :100:
 - - 10 contributions on GitHub :100:
 
+<br><h3>:pushpin: 4/16　</h3>
+:dart: Plan
+- 10 contributions on GitHub
+
 ---
