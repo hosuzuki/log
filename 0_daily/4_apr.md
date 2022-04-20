@@ -178,3 +178,5 @@
 :dart: Plan
 - 10 contributions on GitHub
 
+:trophy: Result
+- 10 contributions on GitHub :100:
