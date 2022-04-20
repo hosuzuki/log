@@ -9,12 +9,15 @@
 
 
 <h3> SF </h3>
+
 <h4>:zap: "Matrix" </h4>
 
+
 <h3> Comedy </h3>
+
 <h4>:zap: "Ace Ventura: Pet Detective" </h4>
 
-<h4>:zap: "AAce Ventura: When Nature Calls" </h4>
+<h4>:zap: "Ace Ventura: When Nature Calls" </h4>
 
 
 
