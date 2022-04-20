@@ -14,14 +14,17 @@
 <h3> Comedy </h3>
 <h4>:zap: "Ace Ventura: Pet Detective" </h4>
 
+<h4>:zap: "AAce Ventura: When Nature Calls" </h4>
+
+
 
 <h3> Animation </h3>
-
-<h4>:zap: "Mobile Suit Gundam: Hathaway"</h4>
 
 <h4>:zap: "Ghost in the Shell (1995)"</h4>
 
 <h4>:zap: "AKIRA"</h4>
+
+<h4>:zap: "Mobile Suit Gundam: Hathaway"</h4>
 
 
 <br>
