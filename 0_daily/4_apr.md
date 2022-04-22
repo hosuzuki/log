@@ -211,4 +211,4 @@
 :trophy: Result
 - 42 Tokyo's project for 0.5 hours
 - 10 contributions on GitHub
-
+- Exam prep
