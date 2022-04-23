@@ -209,3 +209,8 @@
 - 10 contributions on GitHub
 - Exam prep
 
+<br><h3>:pushpin: 4/22　</h3>
+:dart: Plan
+- 42 Tokyo's project for 5 hours
+- 10 contributions on GitHub
+- Exam prep
