@@ -249,11 +249,10 @@
 :dart: Plan
 - 42 Tokyo's project for 5 hours
 - 10 contributions on GitHub
-- Exam prep
+- beat the Exam Rank 03
 
 :trophy: Result
-- 42 Tokyo's project for 4.5 hours
+- 42 Tokyo's project for 6.5 hours:100:
 - 10 contributions on GitHub:100:
-- got reviewed by two people on the fract-ol project:100:
-- beat the fract-ol project:100:
+- beat the Exam Rank 03:100:
 
