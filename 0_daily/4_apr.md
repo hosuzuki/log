@@ -233,6 +233,8 @@
 - got reviewed by two people on the fract-ol project:100:
 - beat the fract-ol project:100:
 
+---
+
 <br><h3>:pushpin: 4/25　</h3>
 :dart: Plan
 - 42 Tokyo's project for 5 hours
