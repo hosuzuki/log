@@ -240,10 +240,9 @@
 - Exam prep
 
 :trophy: Result
-- 42 Tokyo's project for 4.5 hours
+- 42 Tokyo's project for 7.5 hours:100:
 - 10 contributions on GitHub:100:
-- got reviewed by two people on the fract-ol project:100:
-- beat the fract-ol project:100:
+- Exam Prep:100:
 
 <br><h3>:pushpin: 4/26　</h3>
 :dart: Plan
