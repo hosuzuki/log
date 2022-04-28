@@ -274,4 +274,6 @@
 
 <br><h3>:pushpin: 4/29</h3>
 :dart: Plan
+- programming exercises for 2 hours
+- start working on the exercises of K&C 
 - 10 contributions on GitHub
