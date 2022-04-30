@@ -282,3 +282,8 @@
 - programming exercises for 2 hours:100:
 - started working on the exercises of K&C:100:
 - 10 contributions on GitHub:100:
+
+<br><h3>:pushpin: 4/30</h3>
+:dart: Plan
+- programming exercises for 1 hours
+- 10 contributions on GitHub
