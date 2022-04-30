@@ -277,3 +277,8 @@
 - programming exercises for 2 hours
 - start working on the exercises of K&C 
 - 10 contributions on GitHub
+
+:trophy: Result
+- programming exercises for 2 hours:100:
+- started working on the exercises of K&C:100:
+- 10 contributions on GitHub:100:
