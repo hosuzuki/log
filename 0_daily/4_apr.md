@@ -288,3 +288,6 @@
 - programming exercises for 1 hours
 - 10 contributions on GitHub
 
+:trophy: Result
+- programming exercises for 1 hours:100:
+- 10 contributions on GitHub:100:
