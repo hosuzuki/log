@@ -52,3 +52,9 @@
 - Vim, Shell, and K&R exercises for 1.5 hours:100:
 - 42 Tokyo's project for 1 hour:100:
 - 11 contributions on GitHub :100:
+
+<br><h3>:pushpin: 5/6　</h3>
+:dart: Plan
+- Vim, Shell, and K&R exercises for 1.5 hours
+- 42 Tokyo's project for 1 hour
+- 10 contributions on GitHub
