@@ -5,12 +5,19 @@
 
 <h3> Action </h3>
 
-<h4>:zap: "" </h4>
+<h4>:zap: "GAMERA THE GUARDIAN OF UNIVERSE" </h4>
 
+<h4>:zap: "The Lord of the Rings" </h4>
+
+<h4>:zap: "300" </h4>
 
 <h3> SF </h3>
 
 <h4>:zap: "Matrix" </h4>
+
+<h4>:zap: "Transformers" </h4>
+
+<h4>:zap: "Back to the Future" </h4>
 
 
 <h3> Comedy </h3>
@@ -19,7 +26,7 @@
 
 <h4>:zap: "Ace Ventura: When Nature Calls" </h4>
 
-
+<h4>:zap: "Deadpool" </h4>
 
 <h3> Animation </h3>
 
