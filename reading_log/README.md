@@ -34,15 +34,15 @@
 
 <h3> Non-Fiction </h3>
 
-:closed_book: 3. "Born to Run " by Christopher McDougall 
+:closed_book: 14. "Born to Run " by Christopher McDougall 
 
-:closed_book: 1. "The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World " by A. J. Jacobs
+:closed_book: 15. "The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World " by A. J. Jacobs
 
-:closed_book: 1. "Leonardo Da Vinci" by Walter Isaacson
+:closed_book: 16. "Leonardo Da Vinci" by Walter Isaacson
 
-:closed_book: 1. "What I Talk About When I Talk About Running" by Haruki Murakami 
+:closed_book: 17. "What I Talk About When I Talk About Running" by Haruki Murakami 
 
-:closed_book: 1. "The Story of Art" by E.H. Gombrich
+:closed_book: 18. "The Story of Art" by E.H. Gombrich
 
 
 
