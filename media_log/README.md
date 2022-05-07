@@ -56,9 +56,13 @@
 
 <h3> Comedy </h3>
 
+<h4>:zap: "The IT Crowd"</h4>
+
 <h4>:zap: "Brooklyn Nine-Nine"</h4>
 
 <h4>:zap: "Sex Education"</h4>
+
+<h4>:zap: "The Office" US version </h4>
 
 <h3> Animation </h3>
 
@@ -83,5 +87,6 @@
 <h4>:zap: "TIGER & BUNNY" </h4>
 
 <h4>:zap: "Danganronpa 3: The End of Hope's Peak High School - Despair Arc" </h4>
+
 <h4>:zap: "" </h4>
 
