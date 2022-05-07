@@ -74,16 +74,16 @@
 
 :closed_book: 26. "A Whole New Mind" by Daniel H. Pink
 
-:closed_book: 1. "The Effective Executive" by Peter F. Drucker 
+:closed_book: 27. "The Effective Executive" by Peter F. Drucker 
 
 
 <h3> Comic </h3>
 
-:closed_book: 1. "Vagabond" by Takehiko Inoue 
+:closed_book: 28. "Vagabond" by Takehiko Inoue 
 
-:closed_book: 1. "JoJo’s Bizarre Adventure" by Hirohiko Araki
+:closed_book: 29. "JoJo’s Bizarre Adventure" by Hirohiko Araki
 
-:closed_book: 1. "Dr. STONE" by Boichi, Riichiro Inagaki
+:closed_book: 30. "Dr. STONE" by Boichi, Riichiro Inagaki
 
 :closed_book: 1. "Understanding Comics" by Scott McCloud
 
