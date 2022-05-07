@@ -50,5 +50,15 @@
 
 <h4>:zap: "Kill la Kill" </h4>
 
+<h4>:zap: "DEVILMAN crybaby" </h4>
+
+<h4>:zap: "GUNDAM BUILD FIGHTERS" </h4>
+
+<h4>:zap: "Mobile Suit Gundam: Iron-Blooded Orphans" </h4>
+
+<h4>:zap: "Joshikousei no Mudazukai" </h4>
+
+<h4>:zap: "Asobi Asobase" </h4>
+
 <h4>:zap: "Lupin the Third: Mine Fujiko to iu onna" </h4>
 
