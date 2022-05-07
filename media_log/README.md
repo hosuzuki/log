@@ -62,11 +62,12 @@
 
 <h4>:zap: "Lupin the Third: Mine Fujiko to iu onna" </h4>
 
-<h4>:zap: "" </h4>
-
-
 <h4>:zap: "Psalms of Planets Eureka seveN" </h4>
-<h4>:zap: "" </h4>
+
+<h4>:zap: "ONE PUNCH MAN " </h4>
+
+<h4>:zap: "TIGER & BUNNY" </h4>
+
 <h4>:zap: "" </h4>
 <h4>:zap: "" </h4>
 
