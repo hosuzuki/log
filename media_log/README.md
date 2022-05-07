@@ -82,6 +82,6 @@
 
 <h4>:zap: "TIGER & BUNNY" </h4>
 
-<h4>:zap: "" </h4>
+<h4>:zap: "Danganronpa 3: The End of Hope's Peak High School" </h4>
 <h4>:zap: "" </h4>
 
