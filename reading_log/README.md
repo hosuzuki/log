@@ -48,31 +48,31 @@
 
 <h3> Autobiography</h3>
 
-:closed_book: 1.　"Memories, Dreams, Reflections: An Autobiography" by Carl Jung
+:closed_book: 19.　"Memories, Dreams, Reflections: An Autobiography" by Carl Jung
 
-:closed_book: 1. "The Autobiography of Benjamin Franklin" by  Benjamin Franklin
+:closed_book: 20. "The Autobiography of Benjamin Franklin" by  Benjamin Franklin
 
 
 
 <h3> New Journalism　</h3>
 
-:closed_book: 1. "In Cold Blood" by Truman Capote
+:closed_book: 21. "In Cold Blood" by Truman Capote
 
-:closed_book: 1. "Hell's Angels" by Hunter S. Thompson
+:closed_book: 22. "Hell's Angels" by Hunter S. Thompson
 
 
 <h3> Criticism </h3>
 
-:closed_book: 1. "Illuminations: Essays and Reflections" by Walter Benjamin 
+:closed_book: 23. "Illuminations: Essays and Reflections" by Walter Benjamin 
 
-:closed_book: 1. "Art as Experience" by John Dewey
+:closed_book: 24. "Art as Experience" by John Dewey
 
 
 <h3> Self-Help </h3>
 
-:closed_book: 1. "Whatever you think, think the opposite" by Paul Arden
+:closed_book: 25. "Whatever you think, think the opposite" by Paul Arden
 
-:closed_book: 1. "A Whole New Mind" by Daniel H. Pink
+:closed_book: 26. "A Whole New Mind" by Daniel H. Pink
 
 :closed_book: 1. "The Effective Executive" by Peter F. Drucker 
 
