@@ -81,7 +81,11 @@
 
 :closed_book: 28. "Vagabond" by Takehiko Inoue 
 
-:closed_book: 29. "JoJo’s Bizarre Adventure" by Hirohiko Araki
+:closed_book: 29. "SLAM DUNK" by Takehiko Inoue 
+
+:closed_book: 30. "JoJo’s Bizarre Adventure" by Hirohiko Araki
+
+:closed_book: 29. "DAYS" by Tsuyoshi Yasuda
 
 :closed_book: 30. "Dr. STONE" by Boichi, Riichiro Inagaki
 
