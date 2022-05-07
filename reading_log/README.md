@@ -23,13 +23,13 @@
 
 :closed_book: 9. "Darma Bums" by Jack Kerouac
 
-:closed_book: 2. "Kusamakura" by Natsume Soseki 
+:closed_book: 10. "Kusamakura" by Natsume Soseki 
 
-:closed_book: 2. "Kappa" by Ryosuke Akutagawa 
+:closed_book: 11. "Kappa" by Ryosuke Akutagawa 
 
-:closed_book: 2. "Story of the Eye" by Georges Bataille 
+:closed_book: 12. "Story of the Eye" by Georges Bataille 
 
-:closed_book: 2. "Bartleby & Co." by Enrique Vila-Matas
+:closed_book: 13. "Bartleby & Co." by Enrique Vila-Matas
 
 
 <h3> Non-Fiction </h3>
