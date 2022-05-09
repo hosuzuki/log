@@ -93,3 +93,8 @@
 :dart: Plan
 - 42's project, Vim, Shell, and K&R exercises for 0.5 hours
 - 10 contributions on GitHub
+
+
+:trophy: Result
+- Vim, Shell, and K&R exercises for 0 hour
+- 10 contributions on GitHub :100:
