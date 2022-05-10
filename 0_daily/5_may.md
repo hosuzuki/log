@@ -100,14 +100,14 @@
 
 <br><h3>:pushpin: 5/10　</h3>
 :dart: Plan
-- 10 contributions on GitHub :100:
+- 10 contributions on GitHub 
 - 
 - :trophy: Result
 - 10 contributions on GitHub :100:
 
 <br><h3>:pushpin: 5/11　</h3>
 :dart: Plan
-- 10 contributions on GitHub :100:
+- 10 contributions on GitHub 
 - 
 - :trophy: Result
 - 10 contributions on GitHub :100:
