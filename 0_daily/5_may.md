@@ -11,6 +11,7 @@
 
 ---
 
+
 <br><h3>:pushpin: 5/2　</h3>
 :dart: Plan
 - Vim, Shell, and K&R exercises for 1.5 hours
