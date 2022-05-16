@@ -146,7 +146,7 @@
 
 ---
 
-<br><h3>:pushpin: 5/15　</h3>
+<br><h3>:pushpin: 5/16　</h3>
 :dart: Plan
 - 10 contributions on GitHub 
 - 42 Tokyo's project, Vim, Shell, and K&R exercises for 1 hours
@@ -156,7 +156,7 @@
 - 42 Tokyo's project, Vim, Shell, and K&R exercises for 1 hours:100:
 
 
-<br><h3>:pushpin: 5/15　</h3>
+<br><h3>:pushpin: 5/17　</h3>
 :dart: Plan
 - 10 contributions on GitHub 
-- 42 Tokyo's project, Vim, Shell, and K&R exercises for 1 hours
+- 42 Tokyo's project, Vim, Shell, and K&R exercises for 0.5 hours
