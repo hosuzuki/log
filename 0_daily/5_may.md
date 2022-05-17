@@ -162,4 +162,12 @@
 - 42 Tokyo's project, Vim, Shell, and K&R exercises for 0.5 hours
 - 10 contributions on GitHub 
 
+:trophy: Result
+- 42 Tokyo's project, Vim, Shell, and K&R exercises for 0.5 hours:100:
+- 10 contributions on GitHub :100:
+
+<br><h3>:pushpin: 5/18　</h3>
+:dart: Plan
+- 42 Tokyo's project, Vim, Shell, and K&R exercises for 0.5 hours
+- 10 contributions on GitHub 
 
