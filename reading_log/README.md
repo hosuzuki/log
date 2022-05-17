@@ -94,4 +94,15 @@
 
 <h3> Picture book </h3>
 
+:closed_book: 31. "A Day, a Dog" by Gabrielle Vincent
+
+:closed_book: 31. "The Snowman" by Raymond Briggs 
+
+:closed_book: 31. "Where The Wild Things Are" by Maurice Sendak 
+
+:closed_book: 31. "The Arrival" by Shaun Tan 
+
+:closed_book: 31. "The Three Robbers" by Tomi Ungerer
+
+:closed_book: 31. "The Doubtful Guest" by Edward Gorey
 
