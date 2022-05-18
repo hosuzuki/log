@@ -1,5 +1,6 @@
 <h2> My favorite 42 books </h2>
 
+<br>
 
 <h3> Classic </h3>
 
@@ -12,7 +13,6 @@
 :closed_book: 4. "Gulliver's Travels" by Jonathan Swift
 
 :closed_book: 5. "Capital" by Karl Marx and Friedrich Engels
-
 
 <br>
 
@@ -48,7 +48,7 @@
 
 :closed_book: 18. "The Story of Art" by E.H. Gombrich
 
-
+<br>
 
 <h3> Autobiography</h3>
 
@@ -56,7 +56,7 @@
 
 :closed_book: 20. "The Autobiography of Benjamin Franklin" by  Benjamin Franklin
 
-
+<br>
 
 <h3> New Journalism　</h3>
 
@@ -64,6 +64,7 @@
 
 :closed_book: 22. "Hell's Angels" by Hunter S. Thompson
 
+<br>
 
 <h3> Criticism </h3>
 
@@ -71,6 +72,7 @@
 
 :closed_book: 24. "Art as Experience" by John Dewey
 
+<br>
 
 <h3> Self-Help </h3>
 
@@ -80,6 +82,7 @@
 
 :closed_book: 27. "The Effective Executive" by Peter F. Drucker 
 
+<br>
 
 <h3> Comic </h3>
 
@@ -95,6 +98,7 @@
 
 :closed_book: 31. "Understanding Comics" by Scott McCloud
 
+<br>
 
 <h3> Picture book </h3>
 
@@ -109,6 +113,4 @@
 :closed_book: 36. "The Three Robbers" by Tomi Ungerer
 
 :closed_book: 37. "The Doubtful Guest" by Edward Gorey
-
-
 
