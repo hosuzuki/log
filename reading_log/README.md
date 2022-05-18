@@ -13,7 +13,7 @@
 
 :closed_book: 5. "Capital" by Karl Marx and Friedrich Engels
 
-<br>
+
 <br>
 
 <h3> Fiction </h3>
@@ -34,6 +34,7 @@
 
 :closed_book: 13. "Bartleby & Co." by Enrique Vila-Matas
 
+<br>
 
 <h3> Non-Fiction </h3>
 
