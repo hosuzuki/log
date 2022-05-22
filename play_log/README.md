@@ -8,12 +8,12 @@
 
 "The Legend of Zelda: Breath of the Wild" - NINTENDO Switch
  
-　"Super Mario World 2: Yoshi's Island" - SUPER Famicom
+"Super Mario World 2: Yoshi's Island" - SUPER Famicom
 
 
 <h3> Indoor Activity </h3>
 
-seatle acquarium
+Seatle Acquarium
 
 
 <h3> Outdoor Activity </h3>
