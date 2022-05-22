@@ -4,11 +4,11 @@
 
 <h3> Game </h3>
 
-starfox
+"Star Fox 64" - NINTENDO64
 
-zelda
-
-
+"The Legend of Zelda: Breath of the Wild" - NINTENDO Switch
+ 
+　"Super Mario World 2: Yoshi's Island" - SUPER Famicom
 
 
 <h3> Indoor Activity </h3>
