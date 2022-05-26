@@ -10,11 +10,13 @@
  
 :8ball: 3. "Super Mario World 2: Yoshi's Island" - SUPER Famicom
 
+<br>
 
 <h3> Indoor Activity </h3>
 
 :8ball: 4. Seatle Acquarium
 
+<br>
 
 <h3> Outdoor Activity </h3>
 
