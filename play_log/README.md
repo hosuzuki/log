@@ -4,7 +4,7 @@
 
 <h3> Game </h3>
 
-"Star Fox 64" - NINTENDO64
+:8ball: 1. "Star Fox 64" - NINTENDO64
 
 "The Legend of Zelda: Breath of the Wild" - NINTENDO Switch
  
