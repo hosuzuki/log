@@ -20,6 +20,8 @@
 
 :8ball: 4. The Isamu Noguchi Garden Museum Japan (Kagawa prefecture, Japan)
 
+:8ball: 4. National Museum of Scotland (Edinburgh, Scotland)
+
 
 <br>
 
