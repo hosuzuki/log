@@ -58,7 +58,7 @@
 
 <br>
 
-<h3> New Journalism　</h3>
+<h3> New Journalism　- Gonzo</h3>
 
 :closed_book: 21. "In Cold Blood" by Truman Capote
 
