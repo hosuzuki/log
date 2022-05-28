@@ -1,4 +1,4 @@
-<h2> My favorite 42 plays and games </h2>
+<h2> My favorite 42 plays, games, places to visit </h2>
 
 <br>
 
@@ -14,7 +14,12 @@
 
 <h3> Indoor Activity </h3>
 
-:8ball: 4. Seatle Acquarium
+:8ball: 4. Seatle Acquarium (Seattle)
+
+:8ball: 4. MoMA (NY)
+
+:8ball: 4. The Isamu Noguchi Garden Museum Japan (Kagawa prefecture, Japan)
+
 
 <br>
 
