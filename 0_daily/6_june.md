@@ -44,3 +44,8 @@
 :dart: Plan
 - 42 Tokyo's project, Vim, Shell, and K&R exercises for 1 hours
 - 10 contributions on GitHub
+
+:trophy: Result
+- 42 Tokyo's project, Vim, Shell, and K&R exercises for 1 hours:100:
+- 11 contributions on GitHub :100:
+
