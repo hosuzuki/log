@@ -5,7 +5,7 @@
 |  |  | 1<br> | 2<br> | 3<br> | 4<br> | 5<br> |  | 
 | 6<br> | 7<br> | 8<br> | 9<br> | 10<br> | 11<br> | 12<br> |  | 
 | 13<br> | 14<br>- SF 2h 1000w<br> | 15<br>- SF 2h<br> | 16<br>- SF 2h | 17<br>- SF 2h  | 18<br>- SF 2h | 19<br>- SF 2h | <br>- SF 12h<br>- PRG 0h| 
-| 20<br> | 21<br> | 22<br> | 23<br> | 24<br> | 25<br> | 26<br> |  | 
+| 20<br>- SF 2h | 21<br> | 22<br> | 23<br> | 24<br> | 25<br> | 26<br> |  | 
 | 27<br> | 28<br> | 28<br> | 29<br> | 30<br> | 31<br> |  |  | 
 
 
