@@ -5,7 +5,7 @@
 |  |  | 1<br> | 2<br> | 3<br> | 4<br> | 5<br> |  | 
 | 6<br> | 7<br> | 8<br> | 9<br> | 10<br> | 11<br> - Aikido 2.5h | 12<br> | - Aikido 2.5h | 
 | 13<br> | 14<br>- SF 2h 1000w<br> | 15<br>- SF 2h<br> | 16<br>- SF 2h | 17<br>- SF 2h  | 18<br>- SF 2h<br>- Aikido 2.5h| 19<br>- SF 2h | <br>- SF 12h<br>- PRG 0h<br>- Aikido 2.5h| 
-| 20<br>- SF 2h | 21<br> - SF 2h| 22<br>- SF 2h | 23<br>- SF 2h | 24<br>- SF 2h | 25<br> | 26<br> |  | 
+| 20<br>- SF 2h | 21<br> - SF 2h| 22<br>- SF 2h | 23<br>- SF 2h <br>- Workout at a park | 24<br>- SF 2h | 25<br> | 26<br> |  | 
 | 27<br> | 28<br> | 28<br> | 29<br> | 30<br> | 31<br> |  |  | 
 
 
