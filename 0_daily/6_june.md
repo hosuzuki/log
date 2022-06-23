@@ -178,3 +178,6 @@
 - <br><h3>:pushpin: 6/23　</h3>
 :dart: Plan
 - 10 contributions on GitHub
+
+:trophy: Result
+- 16 contributions on GitHub :100:
