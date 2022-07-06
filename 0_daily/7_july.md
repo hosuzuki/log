@@ -40,3 +40,6 @@
 :dart: Plan
 - 10 contributions on GitHub
 
+:trophy: Result
+- 10 contributions on GitHub :100:
+- 42 project 0.5 hours :100:
