@@ -62,6 +62,7 @@
 
 :trophy: Result
 - 10 contributions on GitHub :100:
+- 42 project 0.5 hours :100:
 
 <br><h3>:pushpin: 7/10　</h3>
 :dart: Plan
@@ -69,6 +70,8 @@
 
 :trophy: Result
 - 10 contributions on GitHub :100:
+
+---
 
 <br><h3>:pushpin: 7/11 </h3>
 :dart: Plan
