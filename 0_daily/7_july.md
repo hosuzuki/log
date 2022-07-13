@@ -50,16 +50,36 @@
 - 42 project 4 hours 
 
 <br><h3>:pushpin: 7/8　</h3>
-- 
+:dart: Plan
+- 10 contributions on GitHub
+
+:trophy: Result
+- 10 contributions on GitHub :100:
 
 <br><h3>:pushpin: 7/9　</h3>
-- 
+:dart: Plan
+- 10 contributions on GitHub
+
+:trophy: Result
+- 10 contributions on GitHub :100:
 
 <br><h3>:pushpin: 7/10　</h3>
-- 
+:dart: Plan
+- 10 contributions on GitHub
+
+:trophy: Result
+- 10 contributions on GitHub :100:
 
 <br><h3>:pushpin: 7/11 </h3>
-- 
+:dart: Plan
+- 10 contributions on GitHub
+
+:trophy: Result
+- 10 contributions on GitHub :100:
 
 <br><h3>:pushpin: 7/12　</h3>
-- 
+:dart: Plan
+- 10 contributions on GitHub
+
+:trophy: Result
+- 10 contributions on GitHub :100:
