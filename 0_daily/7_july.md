@@ -48,3 +48,5 @@
 :dart: Plan
 - 10 contributions on GitHub
 - 42 project 4 hours 
+
+<br><h3>:pushpin: 7/8　</h3>
