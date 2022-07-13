@@ -50,8 +50,16 @@
 - 42 project 4 hours 
 
 <br><h3>:pushpin: 7/8　</h3>
+- 
 
 <br><h3>:pushpin: 7/9　</h3>
+- 
+
 <br><h3>:pushpin: 7/10　</h3>
+- 
+
 <br><h3>:pushpin: 7/11 </h3>
+- 
+
 <br><h3>:pushpin: 7/12　</h3>
+- 
