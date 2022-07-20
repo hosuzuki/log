@@ -149,3 +149,7 @@
 <br><h3>:pushpin: 7/20　</h3>
 :dart: Plan
 - 10< contributions on GitHub
+
+:trophy: Result
+- 10< contributions on GitHub :100:
+- 42 project 2 hours :100:
