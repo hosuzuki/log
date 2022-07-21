@@ -161,3 +161,7 @@
 :trophy: Result
 - 10< contributions on GitHub :100:
 - 42 project 2 hours :100:
+
+<br><h3>:pushpin: 7/22　</h3>
+:dart: Plan
+- 10< contributions on GitHub
